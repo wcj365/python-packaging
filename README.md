@@ -1,7 +1,7 @@
 # Example to Demonstrate Python Packaging
 This package contains two modules developed for calculating simple descriptive statistics . 
-The first module is call centrality which contains two functions: mean and median. 
-The second module dispersion contains four functions: minimum, maximum, variance, and standard deviation.
+The first module is called centrality which contains two functions: mean and median. 
+The second module is called dispersion which contains four functions: minimum, maximum, variance, and standard deviation.
 - Centrality
     - Mean
     - Median
